@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Custom Rating Bar Example</string>
+    <string name="header_text">Custom Rating Bar</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
